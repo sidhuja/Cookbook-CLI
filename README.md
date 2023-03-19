@@ -18,8 +18,6 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, clone it and run the cookbook.py and RecipeGenerator.py 
 
-```
-$ pip3 install cookbook-cli
-```
+
